@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ub-cv-1ad7d": {
+      "hosting": {
+        "The_CV": [
+          "ub-cv-1ad7d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ub-cv-1ad7d"
+  }
+}
